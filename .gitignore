@@ -16,3 +16,4 @@ workspace.xml
 # Maven
 log/
 target/
+.idea/workspace.xml
