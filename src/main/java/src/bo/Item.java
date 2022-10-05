@@ -1,4 +1,4 @@
-package bo;
+package src.bo;
 
 public class Item {
 }
